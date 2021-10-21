@@ -1,4 +1,4 @@
-# zooKeeper_partTwo
+# ZooKeeper
 Objectives:
 
 Implement packages to namespace your project.
