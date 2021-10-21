@@ -20,6 +20,7 @@ public class Bat extends Mammal{
 		this.setEnergyLevel( energy );
         System.out.println( "flying it's really hard, it drains my energy!: " + this.displayEnergy() );
 	}
+	
 	public void eatHumans() {
 		int currentEnergy = this.getEnergyLevel();
         int energy = currentEnergy + 25;
